@@ -4,7 +4,7 @@
 window.FIREBASE_CONFIG = {
   apiKey: 'AIzaSyAqVNAFxnlUqlSIh9od6qXJm-9WOX879Mw',
   authDomain: 'ai-lecture-2026-ks.firebaseapp.com',
-  databaseURL: '', // Realtime Database 생성 뒤 콘솔의 데이터베이스 URL 입력
+  databaseURL: 'https://ai-lecture-2026-ks-default-rtdb.asia-southeast1.firebasedatabase.app',
   projectId: 'ai-lecture-2026-ks',
   appId: '1:569324779633:web:3ae07100d922c37f6683d0'
 };
